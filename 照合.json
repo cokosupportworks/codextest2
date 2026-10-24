@@ -1,0 +1,9 @@
+{
+  "originalSha256": "334a7f9e552d29538805c3d54fdebe6830187323bc6e5410dba0767b503b5879",
+  "files": {
+    "index.html": "5fd1bea59256fc21e251bcdeb8ae926c2c30ea471e8dd2bfc57250e000492970",
+    "contain.html": "a89d47f101cb97858274dd8c86e9ef93c141af968fb1d11c13993a82aca6c5a7"
+  },
+  "onlyAppDifference": "policy.phone.fit: cover vs contain",
+  "diagnostics": "D2"
+}
